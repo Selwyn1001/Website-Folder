@@ -6,4 +6,28 @@ header{
     font-size: large;
     font-weight: bolder;
     display: flex;
+    justify-content: center;
+}
+main{
+    grid-area: main;
+    background-color: azure;
+    color: black;
+}
+
+nav{
+    grid-area: nav;
+    background-color: aquamarine;
+    color: black;
+}
+aside{
+    grid-area: aside;
+    background-color: greenyellow;
+    color: black;
+    font-size: large;
+}
+footer{
+    grid-area: footer;
+    background-color: bisque;
+    color: black;
+    font-size: large;
 }
