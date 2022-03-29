@@ -32,3 +32,6 @@ footer{
     color: black;
     font-size: large;
 }
+body{
+    display: grid;
+}
