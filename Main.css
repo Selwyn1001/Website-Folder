@@ -10,8 +10,9 @@ header{
 }
 main{
     grid-area: main;
-    background-color: azure;
+    background-color: aliceblue;
     color: black;
+    padding: 20%;
 }
 
 nav{
