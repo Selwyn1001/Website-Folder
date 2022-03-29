@@ -1,0 +1,9 @@
+header{
+    background-color: red;
+    color: black;
+    padding: 20px;
+    grid-area: header;
+    font-size: large;
+    font-weight: bolder;
+    display: flex;
+}
